@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Introduction to React JS + Installation | Complete React Course ",
+    "instructor": "Yogesh",
+    "description": "Learn the basics of React Native development and build your first mobile app. React JS is a javascript library originally developed by Facebook. It helps in building highly engaging single-page web applications. React JS helps in breaking down complex UI into simpler components. React JS has a high demand in the field of Web development.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.filepicker.io/api/file/4C6yPDywSUeWYLyg1h9G",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "feature":"true",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "Day": 1,
+        "topic": "Introduction to React Native",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "Day": 2,
+        "topic": "Creating our first react app using create-react-app | Complete React Course ",
+        "content": "In React, we create our app by dividing it into different components. We can create components of our app individually and can reuse them again and again.  ?  For Example: In the below Image, we have structured our app into the header, footer, body, and right navigation bar.."
+      },
+      {
+        "Day": 3,
+        "topic": "Understanding JSX | Complete React Course",
+        "content": "In the last tutorial, we refreshed our knowledge of JavaScript. In this tutorial, we will learn about JSX. Do remember to access the official documentation of React. In an early tutorial, we created our textutils project and discussed it's folder structure. Let’s continue our React journey."
+      },
+      {
+        "Day": 4,
+        "topic": "Understanding State & Handling Events in React | Complete React Course ",
+        "content": "We are creating a new component named Textform.js in our Components folder. By using ‘rfc’ snippet you can generate a function-based component in 'textform.js'. Now inside this function, we will render our desired textbox. For example, we are using the textbox from Bootstrap."
+      },
+      {
+        "Day": 5,
+        "topic": "React Router Setup + Usage | Complete React Course",
+        "content": "Let’s see how to set up react-router in our code: Procedure: The first thing we have to do is install the react-router package because it is not a part of the core react library. To do this, we need npm and a new terminal. So in the terminal, write the following code. ? npm install react-router-dom  "
+      },
+      {
+        "Day": 6,
+        "topic": "[Free] Building + Hosting React App For free on Github Pages | Complete React Course ",
+        "content": "Whenever we create our application for production, we build it using the npm run build command and not by using npm start. npm run build: npm run build bundles the app into static files for production, i.e. it creates a build folder that contains your application as a static application.."
+      },
+      {
+        "Day": 7,
+        "topic": "Understanding state in class based components | Complete React Course",
+        "content": "First of all, you have to use the Image Url with the props object. After that, We would pass the image URL in the ‘img src’ tag. Now, let’s pass content (URL of Image) in this ‘imageURL’ from News.js as shown below:        "
+      },
+      {
+        "Day": 8,
+        "topic": "Introduction to React Hooks | Complete React Course ",
+        "content": "In this article, we will be having a short introduction to React Hooks. In addition to that, we will be understanding some of the most widely used Hooks in React Application. This is so because in the upcoming videos we will be changing the class-based component into function-based components, as they are quite easy when compared with class-based components.        "
+      },
+      {
+        "Day": 9,
+        "topic": "Project 3: iNotebook backend and React frontend setup | Complete React Course",
+        "content": "Till now, we have created the frontend of the two applications and have used the API for the backend purpose. Now, we would create our own API with the help of the MERN stack. Therefore, let’s begin by creating our New React Application named iNotebook. "
+      },
+      {
+        "Day": 10,
+        "topic": "Adding Data Validation Using express-validator",
+        "content": "There’s one more issue with our validation, that is if the user submits the request two times with the same ‘Name’ and ‘Email’ then the two different entries of Data are stored in the database. This means that we are not getting the unique email for each submitted data. Solution: To resolve this issue, we would firstly open the db.js and would specify a database, suppose iNotebook."
+      },
+      {
+        "Day": 11,
+        "topic": "Creating a middleware to decode user from a JWT | Complete React Course ",
+        "content": "In the previous article, we have created some routes in the backend of our iNotebook application. In today’s article, we would create a new route, which will provide us with the details of the logged-in user. So, without further ado let’s begin!        "
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "name": "Introduction to JavaScript + Setup",
+    "instructor": "Gill",
+    "description": "JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class objects that can be easily created via expressions and passed around like any other object. This page serves as a quick overview of various JavaScript language features, written for readers with background in other languages, such as C or Java..",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://cdn.geekboots.com/geek/javascript-meta-1652702081069.jpg",
+    "duration": "15 weeks",
+    "schedule": "Monday and Friday, 4:00 PM - 6:00 PM",
+    "location": "Online",
+    "feature":"true",
+    "prerequisites": ["HTML" ,"CSS" , "Basic JavaScript knowledge"],
+    "syllabus": [
+      {
+        "Day": 1,
+        "topic": "Introduction to JavaScript  | JavaScript",
+        "content": "Programming is a way to talk to computers. A language like Hindi, English or Bengali can be used to talk to a human but for computers we need straightforward instructions."
+      },
+      {
+        "Day": 2,
+        "topic": "Variables in JavaScript | JavaScript",
+        "content": "Just like we follow some rules while speaking English (the grammar), we have some rules to follow while writing a JavaScript program. The set of these rules is called syntax in JavaScript."
+      },
+      {
+        "Day": 3,
+        "topic": "Primitives and Objects in JavaScript",
+        "content": "These are 7 primitive datatypes in JavaScript: ? Null ? Number ? String ? Symbol ? Undefined ? Boolean ? BigInt"
+      },
+      {
+        "Day": 4,
+        "topic": "const, let and var in JavaScript",
+        "content": "var vs let vs const in JavaScript ? var is globally scoped while let and const are block scoped. ? var can be updated & re-declared within its scope. ? let can be updated but not re-declared. ? const can neither be updated nor be re-declared. ? var variables are initialized with undefined whereas let and const variables are not initialized. ? const must be initialized during declaration unlike let and var."
+      },
+
+      {
+        "Day": 5,
+        "topic": "For Loops in JavaScript",
+        "content": "We use loops to perform repeated actions. ? For example – if you are assigned a task of printing numbers from 1 to 100, it will be very hectic to do it manually, Loops help us automate such tasks."
+      },
+      {
+        "Day": 6,
+        "topic": "Introduction to Strings",
+        "content": "Strings are useful for holding data that can be represented in text form. Some of the most-used operations on strings are to check their length, to build and concatenate them using the + and += string operators, checking for the existence or location of substrings with the indexOf() method, or extracting substrings with the substring() method."
+      },
+      {
+        "Day": 7,
+        "topic": "Map, Filter & Reduce in JavaScript",
+        "content": "map() – creates a new array by performing some operation on each array element. ? filter() – Filters an array with values that passes a test. Creates a new array. ? reduce method – Reduces an array to a single value.        "
+      },
+
+      {
+        "Day": 8,
+        "topic": "Introduction to Promises ",
+        "content": "The solution to the callback hell is promises. A promise is a “promise of code execution”. The code either executes or fails, in both the cases the subscriber will be notified. The syntax of a Promise looks like this: resolve and reject are two callbacks provided by JavaScript itself"
+      },
+      {
+        "Day": 9,
+        "topic": "Async/Await in JavaScript",
+        "content": "There is another keyword called await that works only inside async functions ( let value = await promise; )The await keyword makes JS wait until the promise settles and returns its value. Its just a more elegant syntax of getting the promise result than promise .then and it’s easier to read and write."
+      },
+      {
+        "Day": 10,
+        "topic": "Hoisting in JavaScript",
+        "content": "Hoisting refers to the process whereby the interpreter appears to move the declarations to the top of the code before executions. Variables can this be referenced before they are declared in JavaScript.        "
+      },
+      {
+        "Day": 11,
+        "topic": "Closures in JavaScript",
+        "content": "We already know JS variables can belong to the local or global scope. Closures are used to make global variables local (private). It is a JS feature in which the inner function has access to the outer function variables. Closure is created with the creation of a function.        "
+      }
+    ]
+  },
+
+
+
+
+
+  {
+        "name": "Introduction to Python",
+        "instructor": "John Doe",
+        "description": "Welcome to my course on Python programming. If you know me, you know that I always start a beginner Python class with a fundamental question - 'What is Programming'.  Programming is a way for us to tell computers what to do. The computer is a very dumb machine and it only does what we tell it to do. Hence we learn to program and tell computers to do what we are very slow at - computation. If I ask you to calculate 5+6, you will immediately say 11. How about 23453453 X 56456? You will start searching for a calculator or jump to a new tab to calculate the same. This 100 days of code series will help you learn Python from starting to the end. We will start from 0 and by the time we end this course, I promise you will be a Job ready Python developer!..",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://cdn.geekboots.com/geek/javascript-meta-1652702081069.jpg",
+        "duration": "9 weeks",
+        "schedule": "Monday and Wednesday, 2:00 PM - 4:00 PM",
+        "location": "Online",
+        "feature":"true",
+        "prerequisites": ["HTML" ,"CSS" , "Basic JavaScript knowledge"],
+        "syllabus": [
+          {
+            "Day": 1,
+            "topic": "What is Programming and Python?",
+            "content": "Welcome to my course on Python programming. If you know me, you know that I always start a beginner Python class with a fundamental question - 'What is Programming'.  Programming is a way for us to tell computers what to do. The computer is a very dumb machine and it only does what we tell it to do. Hence we learn to program and tell computers to do what we are very slow at - computation. If I ask you to calculate 5+6, you will immediately say 11. How about 23453453 X 56456?"
+          },
+          {
+            "Day": 2,
+            "topic": " My Python Success Story",
+            "content": "Welcome to Day 2 of 100 days of code. Let me start with a story! Back in my college, I used to learn C and C++ programming in depth, used to score good marks. I created a bunch of printing, conditionals and loop program. Now what? I wanted to benefit from the same In my second year of college, I started working (I mean actually working in the industry) with the python programming language. I was not so good with it but I used to write code for a singaporean client and actually make good money without having to actually master Python. Harry then got curious and started working on his Python skills even more. I then got into web scraping and trust me I made some good easy money on Fiverr just by writing some python programs and charging on per webpage basis to my clients ( I used to automate scraping)."
+          },
+          {
+            "Day": 3,
+            "topic": "Our First Program",
+            "content": "Today we will write our first ever python program from scratch. It will consist of a bunch of print statements. print can be used to print something on the console in python.."
+          },
+          {
+            "Day": 4,
+            "topic": "Variables and Data Types",
+            "content": "Variable is like a container that holds data. Very similar to how our containers in kitchen holds sugar, salt etc Creating a variable is like creating a placeholder in memory and assigning it some value."
+          },
+    
+          {
+            "Day": 5,
+            "topic": " Operators",
+            "content": "Python has different types of operators for different operations. To create a calculator we require arithmetic operators."
+          },
+          {
+            "Day": 6,
+            "topic": "Typecasting in python",
+            "content": "The conversion of one data type into the other data type is known as type casting in python or type conversion in python. Python supports a wide variety of functions or methods like: int(), float(), str(), ord(), hex(), oct(), tuple(), set(), list(), dict(), etc. for the type casting in python."
+          },
+          {
+            "Day": 7,
+            "topic": "What are strings?",
+            "content": "In python, anything that you enclose between single or double quotation marks is considered a string. A string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters.  "
+          },
+    
+          {
+            "Day": 8,
+            "topic": "Match Case Statement ",
+            "content": "To implement switch-case like characteristics very similar to if-else functionality, we use a match case in python. If you are coming from a C, C++ or Java like language, you must have heard of switch-case statements. If this is your first language, dont worry as I will tell you everything you need to know about match case statements in this video! A match statement will compare a given variable’s value to different shapes, also referred to as the pattern. The main idea is to keep on comparing the variable with all the present patterns until it fits into one."
+          },
+          {
+            "Day": 9,
+            "topic": "Async/Await in Python",
+            "content": "There is another keyword called await that works only inside async functions ( let value = await promise; )The await keyword makes JS wait until the promise settles and returns its value. Its just a more elegant syntax of getting the promise result than promise .then and it’s easier to read and write."
+          },
+          {
+            "Day": 10,
+            "topic": "Break & Continue Statement",
+            "content": "The break statement enables a program to skip over a part of the code. A break statement terminates the very loop it lies within.        "
+          },
+          {
+            "Day": 11,
+            "topic": "Python Functions",
+            "content": "A function is a block of code that performs a specific task whenever it is called. In bigger programs, where we have large amounts of code, it is advisable to create or use existing functions that make the program flow organized and neat.    "
+          },
+          {
+            "Day": 12,
+            "topic": "Python Lists",
+            "content": "Lists are ordered collection of data items. ?  They store multiple items in a single variable. ? List items are separated by commas and enclosed within square brackets []. ? Lists are changeable meaning we can alter them after creation. "
+          },
+          {
+            "Day": 13,
+            "topic": "Python Functions",
+            "content": "In Python, we know that a function can call other functions. It is even possible for the function to call itself. These types of construct are termed as recursive functions. "
+          }
+        ]
+      },
+
+
+
+
+      {
+        "name": "Introduction to Next.js",
+        "instructor": "Sonu",
+        "description": "Greetings everyone, and I am thrilled to have you all joining me on this new playlist of mine, NextJs. Well, to be honest, I have always resisted the thought of learning new technology even whenever the need arises. I have always dismissed the idea, considering that it could be done with the existing technologies we already know about. However, learning NextJs is totally worth it. ? NextJs is a framework you will never regret learning. This is one of my favorite JavaScript frameworks. It provides endless possibilities for developing beautiful applications. NextJs is a React-based production framework using which we can develop React websites with great convenience.  Well, what convenience exactly does NextJs provide..",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp",
+        "duration": "14 weeks",
+        "schedule": "Monday and Wednesday, 2:00 PM - 4:00 PM",
+        "location": "Online",
+        "feature":"false",
+        "prerequisites": ["HTML" ,"CSS" , "Basic JavaScript knowledge"],
+        "syllabus": [
+          {
+            "Day": 1,
+            "topic": "Our first Next.js website | NextJs Tutorial",
+            "content": "In this lesson, we will start building our first Next.js application. You will see how easy it is! You can always use npm to install packages, but I want you to resist the inertia and start working with yarn for a while (Its fast, its worth it, I promise!)"
+          },
+          {
+            "Day": 2,
+            "topic": " File Based Routing in Next.js",
+            "content": "In the last lesson, we built our first Next.Js application. This lesson will focus primarily on the file-based routing provided by Next.Js. Before we dive deep into the file-based routing, I will answer a few of the most asked questions by beginners            "
+          },
+          {
+            "Day": 3,
+            "topic": "Head and Script Component in Next.js",
+            "content": "Regardless of whichever framework or library you use, the basics and essence of HTML, CSS and JavaScript remains intact well within your needs. You have the clarity of their applications and you know that the Head tag contains the title and the styling for the page but that is when you use core HTML. There might be times when you want to write stuff in the Head tag, but find yourself stuck in Next Js where there are pages which export React components which we write and there is no Head. For your sake, let me tell you that Next Js can do wonders for you. Next Js provides a Head component which lets you inject stuff in Head and change things like title of the page directly from the title tag present in the Head component. Due to this very ability of Next Js, we can enjoy the new, great features of Next Js while still using the good old HTML, CSS, and JavaScript. .."
+          },
+          {
+            "Day": 4,
+            "topic": "Image Component in Next.js",
+            "content": "In the last lecture, we dealt with the Head and the Script components of Next Js. Today, we'll look at the Image component. At times, when you use HTML, CSS, or JavaScript or any other framework, it can happen that when you embed an image into your programs, you complain about it taking forever to load on the website because of the size of the image. As a result, your site runs slower and your search engine optimization is ruined. ? As for Next Js, it has improvised on this front too. Next Js provides an Image component. Image component automatically optimises your images. By default, images in this component are lazy loaded. As a result, the loading time of the website is greatly reduced since only images in the viewport - that is, on the screen - get rendered and not those that are not visible to you. It is through tools like these that Next Js is strengthened. Now let's take a closer look at the Image component."
+          },
+    
+          {
+            "Day": 5,
+            "topic": "Link component in Next.js - Understanding next/link | NextJs",
+            "content": "In the last lecture, we saw how we create multiple pages just by creating files in Next Js which is also called the file based routing method and that is what we discussed even in the first few lectures. Moreover, we gave structure to our website, although we haven't linked those pages yet. Remember that navigation of pages in React Js can sometimes be a real pain? Well, not any more now that Next Js is here. This is where the Link component comes in. So today, we’ll see how the Link component works. And not only that, we will also see how this Link component is different from the good old anchor tag of HTML which can still be used to link different websites. First of all, run the development server if it’s not already running. Once the server starts running, you can see our website and everything we have done so far. Also, we have created all the required pages for our website. Despite this, the biggest problem with the website is that these pages are still not navigable. And we cannot simply use anchor tags to achieve that here. We will rather use the Link Component."
+          },
+          {
+            "Day": 6,
+            "topic": "Component Level CSS in Next.js ",
+            "content": "In the last lecture, we dealt with the Link component of Next Js and we saw the differences between the Link component and the good old anchor tag of HTML. It may often be the case that you want one component of your website to use one CSS and another component of your website to use another CSS. So today, we'll go over how you can make that happen, as well as why you might want to learn this if you haven't already felt the need of doing this Component based styling of your site. Let’s just get started. CSS is one of the most important elements that give your website the appearance it demands, and the way we exploit it here would give Next Js a greater impact on popularity as a framework and it manages the styling of the website so well. So, let’s first open VSCode in the parent directory. Run the development server, if not running already. "
+          },
+          {
+            "Day": 7,
+            "topic": "What are strings?",
+            "content": "In python, anything that you enclose between single or double quotation marks is considered a string. A string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters.  "
+          },
+    
+          {
+            "Day": 8,
+            "topic": "Styled jsx in Next.js  ",
+            "content": "TIn the last lecture, we explored how different custom stylings can be applied to our websites to make them look the way we want in different ways. Two of them were highlighted, the first one being Component level styling, and the second one was global styling. Despite how great these technologies are, you'll always miss the simplicity of our good old HTML, CSS, and JavaScript. But Next JS lets you enjoy that convenience here as well. You can program your stylesheets targeting your classes just like you did in normal CSS even in Next Js with much more functionalities using a special syntax named style JSX. Using this makes it possible to write CSS specific to a particular component. That even makes it easier to add, change, and delete styles without worrying about how they will affect other components. You can even declare it globally following different methods. Let's just begin with style JSX without further ado."
+          },
+          {
+            "Day": 9,
+            "topic": "Adding blog jsons as data | NextJs",
+            "content": " The data we want to store for our website could have been stored in a separate database configured using a backend, but that would have been too complicated for a simple and beginner-friendly website like ours. In order to avoid that complexity, we will store different blog posts in different JSON files. A better and more optimised solution using databases like MongoDB or SQL will follow later on, but for now let's learn how blog posts’ content stored in JSON files could be read and displayed on Hunting Coder through the NextJs file-system. Run your development server. Data must be stored somewhere for it to be fetched. Currently if you open your blog page and click on the title of the first blog, it navigates to a blog page and there is some content present. That content has been hard coded into the application. And hard coding is something developers shouldn’t do for a scaled project. So, we will create a folder named blogdata in the Hunting Coder directory. This folder will store all JSON files which are to be rendered on the website. For the sake of demonstration, I'll create a few examples. "
+          },
+          {
+            "Day": 10,
+            "topic": "Creating endpoints to get one/all blogposts | NextJs Tutorial",
+            "content": "In the last lecture, we learnt about what APIs are in Next JS and how they are used to construct the backend of a website. We saw how easy Next JS had made it for its developers to utilize the framework for developing the backend. We learned about the API folder in the pages folder, which consists of files that build the API routes which are not shared in your client bundle.   "
+          },
+          {
+            "Day": 11,
+            "topic": "Using the API Endpoints | NextJs Tutorial",
+            "content": "In the last lecture, we learnt to create API endpoints using Next JS.  We created two API endpoints, one for populating the list of blogs present in the blogdata folder, and another for fetching information in JSON object format for individual blogs when requested through the request query via a slug. But only creating endpoints makes no difference to our application. For them to work, they must be incorporated into our frontend somehow. Today, we’ll see how we can use these endpoints in our frontend and establish a connection between the frontend and the backend. We’ll strategize the calling of these API routes and much more. So, let’s just get started. Start by launching the development server. As of right now, you'll see a list of three blogs that are hard-coded into the program when you navigate to the blog page. And when you click on the first blog’s heading, it navigates you to a dummy page that has some garbage information that we hard-coded earlier. We wish to use the blogs API here to populate the actual list of blogs present on our server and the getblogs API to fetch the actual content of the corresponding blog.  "
+          },
+          {
+            "Day": 12,
+            "topic": "Server Side Rendering - getServerSideProps() in Next.js ",
+            "content": "Today, we will practically see what Server-Side Rendering does to our website when we implement it in our very own Hunting Coder. So, today, we will see how we can make use of the getServerSideProps method to generate hydrated HTMLs through the website’s server."
+          },
+          {
+            "Day": 13,
+            "topic": "Rendering HTML text using dangerouslySetInnerHTML in Next.js",
+            "content": "When we render simple HTML, the content of the website gets delivered along with the HTML tags which doesn't give that great experience. The dangerouslySetInnerHTML method helps us put HTML code inside a container object. We will use it to modify the content of our blogs and replace its plain paragraphs and texts with some HTML content for it will give us more formatting options. So, let’s just get started. "
+          }
+        ]
+      },
+
+
+
+
+
+
+
+      {
+        "name": "Tailwind Css Tutorial For Beginners",
+        "instructor": "Yogesh",
+        "description": "Tailwind CSS is a Utility first framework that helps us in styling the HTML pages without leaving the HTML file. This means you can simply add some utility classes in your HTML tags to design your pages swiftly. Tailwind CSS is an extraordinary framework that will completely change the way you write CSS in your programs. One major reason for the popularity of Tailwind CSS is its feasible workflow, as it eliminates the need of mapping the CSS to your HTML file. Nowadays, Tailwind CSS is evolving at a very fast pace. Let’s begin setting up Tailwind CSS..",
+        "enrollmentStatus": "Inprogress",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*oPL8C-i04sqAUoOS_da9aA.jpeg",
+        "duration": "7 weeks",
+        "schedule": "Tuesday and THursday, 5:00 PM - 7:00 PM",
+        "location": "Online",
+        "feature":"false",
+        "prerequisites": ["HTML" ,"CSS" ],
+        "syllabus": [
+          {
+            "Day": 1,
+            "topic": "Introduction to Tailwind CSS & Utility first Workflow: Tailwind Tutorial",
+            "content": "Tailwind CSS is a Utility first framework that helps us in styling the HTML pages without leaving the HTML file. This means you can simply add some utility classes in your HTML tags to design your pages swiftly. Tailwind CSS is an extraordinary framework that will completely change the way you write CSS in your programs. One major reason for the popularity of Tailwind CSS is its feasible workflow, as it eliminates the need of mapping the CSS to your HTML file. Nowadays, Tailwind CSS is evolving at a very fast pace. Let’s begin setting up Tailwind CSS"
+          },
+          {
+            "Day": 2,
+            "topic": "Why use Tailwind CSS?",
+            "content": "In this article, you will know about the advantages of using Tailwind CSS. You can check out one of our tutorials to build your first Tailwind CSS website by clicking here. Let’s get started with the tutorial! ? Advantages of using Tailwind CSS ? 1. Eliminate the Need of reinventing class name By using Tailwind CSS, One can easily obliterate the requirement of reinventing the class name. In the case of writing Traditional CSS, one has to add a large number of class names while creating a single component. For example: While creating a section, a number of classes such as section-heading, section-para, etc are created."
+          },
+          {
+            "Day": 3,
+            "topic": "Fonts & Sizing : Tailwind Tutorial",
+            "content": "In this article, you will get a complete guide on how to apply and interpret the sizing of different fonts in your application with the help of Tailwind CSS. You can check out the process of setting up Tailwind CSS for production by clicking here. Let’s get started with the tutorial!"
+          },
+          {
+            "Day": 4,
+            "topic": "Square Bracket Notation in Tailwind CSS : Tailwind Tutorial",
+            "content": "This feature of Tailwind CSS allows the developer to include custom CSS values instead of using the predefined Utility classes. This feature empowers the developer to break out of the theme constraints and use a contemporary approach when needed while developing the application. Thus, it provides the benefit of generating unexpected styles without writing custom CSS. Moreover, It allows you to use the classes dynamically. Here’s how you can use the Square bracket notation in Tailwind CSS"
+          },
+          {
+            "Day": 5,
+            "topic": "Creating Responsive Designs in Tailwind CSS : Tailwind Tutorial",
+            "content": "The Responsive design practice aims to develop content that adjusts efficiently in a variety of screen sizes. Responsive design refers to an application design that responds to the circumstances in which it is viewed. Responsive web design provides an elegant look to a web page on all devices. Web pages must not leave out the information to fit other devices, instead, their content must adapt according to the screen size. With the help of Breakpoints in Tailwind CSS, one can easily create responsive web pages designs."
+          },
+          {
+            "Day": 6,
+            "topic": "Customizing Tailwind CSS using tailwind.config.js file: Tailwind Tutorial",
+            "content": "One can use the ‘Tailwind Configuration’ feature to customize the Tailwind CSS according to his/her liking by simply manipulating the configure file of Tailwind CSS. This means that one can add custom values of margin, border, colour, screen breakpoints, colors, etc. Eventually, the Complete control of Tailwind CSS customization properties lies in your hands. "
+          }
+        ]
+      }
+]
