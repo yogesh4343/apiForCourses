@@ -26,6 +26,10 @@ const productSchema = new mongoose.Schema({
         type:String,
         required:true 
     },
+    url : {
+        type:String,
+        required:true 
+    },
     schedule : {
         type:String,
         required:true 
@@ -47,12 +51,15 @@ const productSchema = new mongoose.Schema({
     // },
     syllabus : [
         {
-            week:{
+            Day:{
                 type:String,
             },
             topic:{type:String,
             },
             content:{
+                type:String,
+            },
+            video:{
                 type:String,
             }
         }
